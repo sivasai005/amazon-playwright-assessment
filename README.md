@@ -15,3 +15,8 @@ It demonstrates Page Object Model (POM) design, reusable utilities, and end-to-e
    ```bash
    git clone https://github.com/sivasai005/amazon-playwright-assessment.git
    cd amazon-playwright-assessment
+  Record Test Execution Video
+- Use **Windows Xbox Game Bar** (`Win + G`) or **Snipping Tool → Record**.  
+- Run:
+  ```bash
+  npx playwright test --headed
